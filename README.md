@@ -6,7 +6,7 @@ There are four contracts.
 - USD
 - deploy
 
-# run
+# Run
 
 In remix select **deploy** contract and set gas value 3500000 and press deploy button to deploy contract.
 
